@@ -1,0 +1,1 @@
+<% response.sendRedirect("account/post.action"); %>
